@@ -10,6 +10,10 @@ const certificates = [
         title:'Investment Banking Analyst',
         fileType: 'pdf',
         fileUrl: '/certificate(Investment analyst).pdf'
+    },{
+        title:'Bloomberg Market Concepts',
+        fileType: 'pdf',
+        fileUrl: '/BMC.pdf'
     }
 ];
 
